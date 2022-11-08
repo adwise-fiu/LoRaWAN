@@ -1,7 +1,7 @@
 ## Acknowledgments ##
 
 The initial version of this code was developed by SIGNET Lab at
-the University of Padova by the developer Davide Magrin and one of the contributors Qiu Yukang [LoRaWAN](https://github.com/signetlabdei/lorawan "LoRaWAN GitHub")
+the University of Padova by the developer Davide Magrin and one of the contributors Qiu Yukang [LoRaWAN](https://github.com/signetlabdei/lorawan https://github.com/QiuYukang/lorawan "LoRaWAN GitHub")
 
 # LoRaWAN ns-3 modified module #
 
