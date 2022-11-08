@@ -6,8 +6,8 @@ the University of Padova by the developer Davide Magrin and one of the contribut
 # LoRaWAN ns-3 modified module #
 
 This is an [ns-3](https://www.nsnam.org "ns-3 Website") module that can be used
-to perform simulations of a [LoRaWAN](http://www.lora-alliance.org/technology
-"LoRa Alliance") network.
+to perform simulations of a [LoRaWAN](https://lora-alliance.org/about-lorawan "LoRa Alliance") network.
+
 
 
 [Module Documentation](https://signetlabdei.github.io/lorawan-docs/models/build/html/lorawan.html).
