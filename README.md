@@ -49,7 +49,7 @@ The module includes the following code:
 The code can be run via the `./waf --run LoraCenter` command. 
 
 The Simulation Setup is shown in the figure below:
-![alt text](https://github.com/adwise-fiu/LoRaWAN/blob/main/Figure/Approach%20Setup.png)
+![alt text](https://github.com/adwise-fiu/LoRaWAN/blob/main/Figure/Final%20Approach%20Setup.png)
 
 
 ## Documentation ##
